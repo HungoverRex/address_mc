@@ -184,6 +184,10 @@ fetch(DATA_FILE)
     items = data;
     resetPool();
     nextQuestion();
+  })
+  .catch(err => {
+    console.error("Failed to load data.json:", err);
+    questionEl.textContent = "Error loading quiz data.";
   });
 
 // Events

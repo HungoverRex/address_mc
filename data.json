@@ -1,262 +1,334 @@
 [
-  {
-    "Name": "BCIT",
-    "CorrectAddress": "3700 Willingdon Ave"
-  },
-  {
-    "Name": "Bonsor Rec Centre",
-    "CorrectAddress": "6550 Bonsor Ave"
-  },
-  {
-    "Name": "Brentwood",
-    "CorrectAddress": "4567 Lougheed"
-  },
-  {
-    "Name": "Brentwood Mall",
-    "CorrectAddress": "4567 Lougheed"
-  },
-  {
-    "Name": "Burnaby Hospital",
-    "CorrectAddress": "3935 Kincaid St"
-  },
-  {
-    "Name": "Burnaby Library",
-    "CorrectAddress": "6100 Willingdon"
-  },
-  {
-    "Name": "Burnaby Mountain Golf Course",
-    "CorrectAddress": "7600 Halifax St"
-  },
-  {
-    "Name": "Cameron Rec.",
-    "CorrectAddress": "9523 Cameron"
-  },
-  {
-    "Name": "Canlan Ice Sports",
-    "CorrectAddress": "6501 Sprott St"
-  },
-  {
-    "Name": "City Hall",
-    "CorrectAddress": "4949 Canada Way"
-  },
-  {
-    "Name": "Eileen Dailly Fitness Centre",
-    "CorrectAddress": "240 Willingdon Ave"
-  },
-  {
-    "Name": "Highgate",
-    "CorrectAddress": "7155 Kingsway"
-  },
-  {
-    "Name": "Lougheed Mall",
-    "CorrectAddress": "9855 Austin"
-  },
-  {
-    "Name": "MET 1",
-    "CorrectAddress": "4710 Kingsway"
-  },
-  {
-    "Name": "MET 2",
-    "CorrectAddress": "4720 Kingsway"
-  },
-  {
-    "Name": "Metrotown",
-    "CorrectAddress": "4800 Kingsway"
-  },
-  {
-    "Name": "Station 1",
-    "CorrectAddress": "4867 Sperling"
-  },
-  {
-    "Name": "Station 2",
-    "CorrectAddress": "7578 Edmonds St"
-  },
-  {
-    "Name": "Station 3",
-    "CorrectAddress": "6511 Marlborough Ave"
-  },
-  {
-    "Name": "Station 4",
-    "CorrectAddress": "1600 Greystone Dr"
-  },
-  {
-    "Name": "Station 5",
-    "CorrectAddress": "4211 Hastings St"
-  },
-  {
-    "Name": "Station 6",
-    "CorrectAddress": "3620 Brighton"
-  },
-  {
-    "Name": "Station 7",
-    "CorrectAddress": "3151 Gilmore Divers."
-  },
-  {
-    "Name": "Station 8",
-    "CorrectAddress": "9900 Arts Rd."
-  },
-  {
-    "Name": "Telus",
-    "CorrectAddress": "3777 Kingsway"
-  },
-  {
-    "Name": "Patterson Station",
-    "CorrectAddress": "4101 Beresford St"
-  },
-  {
-    "Name": "Metrotown Station",
-    "CorrectAddress": "4401 Beresford St"
-  },
-  {
-    "Name": "Royal Oak Station",
-    "CorrectAddress": "5199 Beresford St"
-  },
-  {
-    "Name": "Brentwood Town Centre Station",
-    "CorrectAddress": "4533 Lougheed Hwy"
-  },
-  {
-    "Name": "Gilmore Station",
-    "CorrectAddress": "2199 Gilmore Ave"
-  },
-  {
-    "Name": "Holdom Station",
-    "CorrectAddress": "2111 Holdom Ave"
-  },
-  {
-    "Name": "Sperling-Burnaby Lake Station",
-    "CorrectAddress": "2800 Sperling Ave"
-  },
-  {
-    "Name": "Lake City Way Station",
-    "CorrectAddress": "3191 Lake City Way"
-  },
-  {
-    "Name": "Production Way-University Station",
-    "CorrectAddress": "3298 Production Way"
-  },
-  {
-    "Name": "Lougheed Town Centre Station",
-    "CorrectAddress": "9755 Lougheed Hwy"
-  },
-  {
-    "Name": "Alpha Secondary School",
-    "CorrectAddress": "4600 Parker St"
-  },
-  {
-    "Name": "Burnaby Central Secondary School",
-    "CorrectAddress": "6011 Deer Lake Pkwy"
-  },
-  {
-    "Name": "Burnaby Mountain Secondary School",
-    "CorrectAddress": "8800 Eastlake Dr"
-  },
-  {
-    "Name": "Burnaby North Secondary School",
-    "CorrectAddress": "751 Hammarskjold Dr"
-  },
-  {
-    "Name": "Burnaby South Secondary School",
-    "CorrectAddress": "5455 Rumble St"
-  },
-  {
-    "Name": "Byrne Creek Community School",
-    "CorrectAddress": "7777 18th St"
-  },
-  {
-    "Name": "Cariboo Hill Secondary School",
-    "CorrectAddress": "8560 16th Ave"
-  },
-  {
-    "Name": "Moscrop Secondary School",
-    "CorrectAddress": "4433 Moscrop St"
-  },
-  {
-    "Name": "St. Thomas More Collegiate",
-    "CorrectAddress": "7450 12th Ave"
-  },
-  {
-    "Name": "Carver Christian High School",
-    "CorrectAddress": "7650 Sapperton Ave"
-  },
-  {
-    "Name": "BC Hydro Edmonds",
-    "CorrectAddress": "6911 Southpoint Dr"
-  },
-  {
-    "Name": "BC Hydro Operations Centre",
-    "CorrectAddress": "6989 14th Ave"
-  },
-  {
-    "Name": "BC Hydro (Gilmore)",
-    "CorrectAddress": "1833 Gilmore Ave"
-  },
-  {
-    "Name": "AgeCare Carlton",
-    "CorrectAddress": "4108 Norfolk St"
-  },
-  {
-    "Name": "Willingdon Care Centre",
-    "CorrectAddress": "4435 Grange St"
-  },
-  {
-    "Name": "Dania Home",
-    "CorrectAddress": "4175 Norland Ave"
-  },
-  {
-    "Name": "Chenchenstway Care Home",
-    "CorrectAddress": "7550 Rosewood St"
-  },
-  {
-    "Name": "Normanna",
-    "CorrectAddress": "7725 4th St"
-  },
-  {
-    "Name": "Fellburn Care Centre",
-    "CorrectAddress": "6050 Hastings St"
-  },
-  {
-    "Name": "Fair Haven Homes Burnaby Lodge",
-    "CorrectAddress": "7557 Sussex Ave"
-  },
-  {
-    "Name": "St. Michael's Centre Care Home",
-    "CorrectAddress": "7451 Sussex Ave"
-  },
-  {
-    "Name": "Cascade Gardens Seniors Community",
-    "CorrectAddress": "3460 Kalyk Ave"
-  },
-  {
-    "Name": "New Vista Society",
-    "CorrectAddress": "7232 New Vista Pl"
-  },
-  {
-    "Name": "Courtyard Terrace Seniors Community",
-    "CorrectAddress": "3730 Burke St"
-  },
-  {
-    "Name": "Swedish Canadian Assisted Living Residence",
-    "CorrectAddress": "7230 Halifax St"
-  },
-  {
-    "Name": "Seton Villa Retirement Centre",
-    "CorrectAddress": "3755 McGill St"
-  },
-  {
-    "Name": "Chartwell Carlton Retirement Residence",
-    "CorrectAddress": "4110 Norfolk St"
-  },
-  {
-    "Name": "George Derby Centre",
-    "CorrectAddress": "7550 Cumberland St"
-  },
-  {
-    "Name": "The Derby Manor",
-    "CorrectAddress": "8601 16th Ave"
-  },
-  {
-    "Name": "The Poppy Residences",
-    "CorrectAddress": "5291 Grimmer St"
-  }
+    {
+        "Name": "BCIT",
+        "CorrectAddress": "3700 Willingdon Ave"
+    },
+    {
+        "Name": "Bonsor Rec Centre",
+        "CorrectAddress": "6550 Bonsor Ave"
+    },
+    {
+        "Name": "Brentwood",
+        "CorrectAddress": "4567 Lougheed"
+    },
+    {
+        "Name": "Brentwood Mall",
+        "CorrectAddress": "4567 Lougheed"
+    },
+    {
+        "Name": "Burnaby Hospital",
+        "CorrectAddress": "3935 Kincaid St"
+    },
+    {
+        "Name": "Burnaby Library",
+        "CorrectAddress": "6100 Willingdon"
+    },
+    {
+        "Name": "Burnaby Mountain Golf Course",
+        "CorrectAddress": "7600 Halifax St"
+    },
+    {
+        "Name": "Cameron Rec.",
+        "CorrectAddress": "9523 Cameron"
+    },
+    {
+        "Name": "Canlan/Scotia Barn",
+        "CorrectAddress": "6501 Sprott St"
+    },
+    {
+        "Name": "City Hall",
+        "CorrectAddress": "4949 Canada Way"
+    },
+    {
+        "Name": "Eileen Dailly Fitness Centre",
+        "CorrectAddress": "240 Willingdon Ave"
+    },
+    {
+        "Name": "Highgate Mall",
+        "CorrectAddress": "7155 Kingsway"
+    },
+    {
+        "Name": "Lougheed Mall",
+        "CorrectAddress": "9855 Austin"
+    },
+    {
+        "Name": "MET 1",
+        "CorrectAddress": "4710 Kingsway"
+    },
+    {
+        "Name": "MET 2",
+        "CorrectAddress": "4720 Kingsway"
+    },
+    {
+        "Name": "Metrotown",
+        "CorrectAddress": "4800 Kingsway"
+    },
+    {
+        "Name": "Station 1",
+        "CorrectAddress": "4867 Sperling"
+    },
+    {
+        "Name": "Station 2",
+        "CorrectAddress": "7578 Edmonds St"
+    },
+    {
+        "Name": "Station 3",
+        "CorrectAddress": "6511 Marlborough Ave"
+    },
+    {
+        "Name": "Station 4",
+        "CorrectAddress": "1600 Greystone Dr"
+    },
+    {
+        "Name": "Station 5",
+        "CorrectAddress": "4211 Hastings St"
+    },
+    {
+        "Name": "Station 6",
+        "CorrectAddress": "3620 Brighton"
+    },
+    {
+        "Name": "Station 7",
+        "CorrectAddress": "3151 Gilmore Divers."
+    },
+    {
+        "Name": "Station 8",
+        "CorrectAddress": "9900 University Dr. E."
+    },
+    {
+        "Name": "Telus",
+        "CorrectAddress": "3777 Kingsway"
+    },
+    {
+        "Name": "Patterson Station",
+        "CorrectAddress": "4101 Beresford St"
+    },
+    {
+        "Name": "Metrotown Station",
+        "CorrectAddress": "4401 Beresford St"
+    },
+    {
+        "Name": "Royal Oak Station",
+        "CorrectAddress": "5199 Beresford St"
+    },
+    {
+        "Name": "Brentwood Town Centre Station",
+        "CorrectAddress": "4533 Lougheed Hwy"
+    },
+    {
+        "Name": "Gilmore Station",
+        "CorrectAddress": "2199 Gilmore Ave"
+    },
+    {
+        "Name": "Holdom Station",
+        "CorrectAddress": "2111 Holdom Ave"
+    },
+    {
+        "Name": "Sperling-Burnaby Lake Station",
+        "CorrectAddress": "2800 Sperling Ave"
+    },
+    {
+        "Name": "Lake City Way Station",
+        "CorrectAddress": "3191 Lake City Way"
+    },
+    {
+        "Name": "Production Way-University Station",
+        "CorrectAddress": "3298 Production Way"
+    },
+    {
+        "Name": "Lougheed Town Centre Station",
+        "CorrectAddress": "9755 Lougheed Hwy"
+    },
+    {
+        "Name": "Alpha Secondary School",
+        "CorrectAddress": "930 Alpha Ave"
+    },
+    {
+        "Name": "Burnaby Central Secondary School",
+        "CorrectAddress": "6011 Deer Lake Pkwy"
+    },
+    {
+        "Name": "Burnaby Mountain Secondary School",
+        "CorrectAddress": "8800 Eastlake Dr"
+    },
+    {
+        "Name": "Burnaby North Secondary School",
+        "CorrectAddress": "751 Hammarskjold Dr"
+    },
+    {
+        "Name": "Burnaby South Secondary School",
+        "CorrectAddress": "5455 Rumble St"
+    },
+    {
+        "Name": "Byrne Creek Community School",
+        "CorrectAddress": "7777 18th St"
+    },
+    {
+        "Name": "Cariboo Hill Secondary School",
+        "CorrectAddress": "8560 16th Ave"
+    },
+    {
+        "Name": "Moscrop Secondary School",
+        "CorrectAddress": "4433 Moscrop St"
+    },
+    {
+        "Name": "St. Thomas More Collegiate",
+        "CorrectAddress": "7450 12th Ave"
+    },
+    {
+        "Name": "Carver Christian High School",
+        "CorrectAddress": "7650 Sapperton Ave"
+    },
+    {
+        "Name": "BC Hydro Edmonds",
+        "CorrectAddress": "6911 Southpoint Dr"
+    },
+    {
+        "Name": "BC Hydro Operations Centre/Tower",
+        "CorrectAddress": "6989 14th Ave"
+    },
+    {
+        "Name": "BC Hydro (Gilmore)",
+        "CorrectAddress": "1833 Gilmore Ave"
+    },
+    {
+        "Name": "AgeCare Carlton",
+        "CorrectAddress": "4108 Norfolk St"
+    },
+    {
+        "Name": "Willingdon Care Centre",
+        "CorrectAddress": "4435 Grange St"
+    },
+    {
+        "Name": "Dania Home",
+        "CorrectAddress": "4175 Norland Ave"
+    },
+    {
+        "Name": "Chenchenstway Care Home",
+        "CorrectAddress": "7550 Rosewood St"
+    },
+    {
+        "Name": "Normanna",
+        "CorrectAddress": "7725 4th St"
+    },
+    {
+        "Name": "Fellburn Care Centre",
+        "CorrectAddress": "6050 Hastings St"
+    },
+    {
+        "Name": "Fair Haven Homes Burnaby Lodge",
+        "CorrectAddress": "7557 Sussex Ave"
+    },
+    {
+        "Name": "St. Michael's Centre Care Home",
+        "CorrectAddress": "7451 Sussex Ave"
+    },
+    {
+        "Name": "Cascade Gardens Seniors Community",
+        "CorrectAddress": "3460 Kalyk Ave"
+    },
+    {
+        "Name": "New Vista Society",
+        "CorrectAddress": "7232 New Vista Pl"
+    },
+    {
+        "Name": "Courtyard Terrace Seniors Community",
+        "CorrectAddress": "3730 Burke St"
+    },
+    {
+        "Name": "Swedish Canadian Assisted Living Residence",
+        "CorrectAddress": "7230 Halifax St"
+    },
+    {
+        "Name": "Seton Villa Retirement Centre",
+        "CorrectAddress": "3755 McGill St"
+    },
+    {
+        "Name": "Chartwell Carlton Retirement Residence",
+        "CorrectAddress": "4110 Norfolk St"
+    },
+    {
+        "Name": "George Derby Centre",
+        "CorrectAddress": "7550 Cumberland St"
+    },
+    {
+        "Name": "The Derby Manor",
+        "CorrectAddress": "8601 16th Ave"
+    },
+    {
+        "Name": "The Poppy Residences",
+        "CorrectAddress": "5291 Grimmer St"
+    },
+    {
+        "Name": "SkyTrain Maint Yard",
+        "CorrectAddress": "6800 14th Ave"
+    },
+    {
+        "Name": "Nikkei Gardens - Japanese",
+        "CorrectAddress": "6688 Southoaks Crs"
+    },
+    {
+        "Name": "Azure Tower 1",
+        "CorrectAddress": "7662 18th St"
+    },
+    {
+        "Name": "City of Lougheed Tower",
+        "CorrectAddress": "3809 Evergreen Pl"
+    },
+    {
+        "Name": "Grand Villa Casino",
+        "CorrectAddress": "4331 Dominion St"
+    },
+    {
+        "Name": "Burnaby Incinerator",
+        "CorrectAddress": "5150 Riverbend Dr"
+    },
+    {
+        "Name": "BCAA Building",
+        "CorrectAddress": "4567 Canada Way"
+    },
+    {
+        "Name": "Bridge Studio East",
+        "CorrectAddress": "2400 Boundary Rd"
+    },
+    {
+        "Name": "Burnaby Village",
+        "CorrectAddress": "6501 Deer Lake Av"
+    },
+    {
+        "Name": "Metrotown Center",
+        "CorrectAddress": "4700 Kingsway"
+    },
+    {
+        "Name": "Seaforth Elementary",
+        "CorrectAddress": "7881 Government St"
+    },
+    {
+        "Name": "Morley Elementary",
+        "CorrectAddress": "7355 Morley St"
+    },
+    {
+        "Name": "Nelson Elementary",
+        "CorrectAddress": "4850 Irmin St"
+    },
+    {
+        "Name": "Armstrong Elementary",
+        "CorrectAddress": "8757 Armstrong St"
+    },
+    {
+        "Name": "City Yard",
+        "CorrectAddress": "5780 Laurel St"
+    },
+    {
+        "Name": "Rose Mary Brown Rec",
+        "CorrectAddress": "7789 18th St"
+    },
+    {
+        "Name": "Edmonds Comm. Center",
+        "CorrectAddress": "7433 Edmonds St"
+    },
+    {
+        "Name": "Riverway Golf Course",
+        "CorrectAddress": "9001 Bill Fox Way"
+    }
 ]
